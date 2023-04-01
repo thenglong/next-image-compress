@@ -12,7 +12,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="bg-cover min-h-screen flex justify-center items-start bg-sky-300 bg-blend-overlay py-7 px-4">
+        {children}
+      </body>
     </html>
-  )
+  );
 }
