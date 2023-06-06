@@ -25,7 +25,7 @@
     "env-cmd": "^10.1.0",
     "eslint": "^8.37.0",
     "eslint-config-next": "^13.2.4",
-    "netlify-cli": "^13.2.2",
+    "netlify-cli": "^15.3.1",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.1",
     "typescript": "^5.0.3"
